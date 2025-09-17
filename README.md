@@ -1,6 +1,8 @@
 # YoLink MCP Server
 
-Finally - the security of IOT devcies combined with the security of MCP!
+Finally - the security of IOT devices combined with the security of MCP!
+
+<img width="1389" height="792" alt="Screenshot 2025-09-16 113015" src="https://github.com/user-attachments/assets/7c2b4431-573e-464c-9dac-fe07c7806fb5" />
 
 This is a Model Context Protocol (MCP) server for interacting with YoLink smart devices. This server allows you to enumerate devices and get status information from your YoLink account through the MCP protocol.
 
